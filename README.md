@@ -1,4 +1,4 @@
-# TFLite Classification in Python
+# TensorFlow Lite Object Detection in Python
 
 This code snipset is heavily based on <b><a href="https://www.tensorflow.org/lite/examples/object_detection/overview#example_applications_and_guides">TensorFlow Lite Object Detection</a></b><br>
 The detection model can be downloaded from above link.<br>
